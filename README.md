@@ -2,6 +2,4 @@
 
 About me...
 
-```javascript
 ![이미지](./images/carbon.png)
-
