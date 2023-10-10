@@ -29,31 +29,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <!-- nextjs -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<svg width="40px" height="40px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <title>Next.js</title>
-    <defs>
-        <circle id="path-1" cx="128" cy="128" r="128"></circle>
-        <linearGradient x1="55.6325605%" y1="56.3850422%" x2="83.2279093%" y2="96.0801119%" id="nextjsLinearGradient-3">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="49.9534722%" y2="73.4375%" id="nextjsLinearGradient-4">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g>
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <g mask="url(#mask-2)">
-            <circle fill="#000000" cx="128" cy="128" r="128"></circle>
-            <path d="M212.6336,224.028444 L98.3352889,76.8 L76.8,76.8 L76.8,179.157333 L94.0282311,179.157333 L94.0282311,98.6788978 L199.109689,234.446222 C203.851378,231.273244 208.368356,227.790222 212.6336,224.028444 Z" fill="url(#nextjsLinearGradient-3)"></path>
-            <rect fill="url(#nextjsLinearGradient-4)" x="163.555556" y="76.8" width="17.0666667" height="102.4"></rect>
-        </g>
-    </g>
-</svg>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F67628675-8e04-46e7-9b91-a5392caf0f30%2Fnextjs-logo.png?table=block&id=d199c285-2f0c-4ed3-bbad-987371e9b727&cache=v2" alt="react" width="40" height="40"/>
 </a>
 <!-- typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
