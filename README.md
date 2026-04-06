@@ -2,7 +2,7 @@
 
   풀스택 개발자 — 기획부터 배포까지, 비즈니스를 이해하고 기술로 끝까지 해결합니다.
 
-  [Portfolio](https://portfolio-ysk9926.vercel.app) · [Email](mailto:tmdrb9926@gmail.com)
+  [Portfolio]([https://portfolio-ysk9926.vercel.app](https://portfolio-pink-two-vymvu56oaw.vercel.app/)) · [Email](mailto:tmdrb9926@gmail.com)
 
   ---
 
